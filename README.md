@@ -1,4 +1,3 @@
-# Banque-du-Caire-Dashboard
 # Banque du Caire | Banking Analytics Dashboard
 
 **An End-to-End Business Intelligence Project Using Power BI**
