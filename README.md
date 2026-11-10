@@ -86,7 +86,7 @@ This project helped me strengthen my practical skills in business intelligence, 
 - `Dashboard Previews/` – Dashboard screenshots.
 - `Data/` – Project sample datasets.
 - `Documentation/` – Supporting project documentation.
-- `Dashboard.pbix` – Power BI project file.
+- `Banque du Caire.pbix` – Power BI project file.
 
 ## Disclaimer
 
