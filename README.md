@@ -43,7 +43,7 @@ Comparing branch activity and exploring operational performance.
 ## Dashboard Previews
 
 ### Landing Page
-![Landing Page](Dashboard%20Previews/Landing)
+![Landing Page](Dashboard%20Previews/Landing.png.png)
 
 ### Overview
 ![Overview](Dashboard%20Previews/Overview.png)
