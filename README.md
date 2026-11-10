@@ -46,19 +46,19 @@ Comparing branch activity and exploring operational performance.
 ![Landing Page](Dashboard%20Previews/Landing.png.png)
 
 ### Overview
-![Overview](Dashboard%20Previews/Overview.png)
+![Overview](Dashboard%20Previews/Overview.png.png)
 
 ### Customer Analysis
-![Customer](Dashboard%20Previews/Customer.png)
+![Customer](Dashboard%20Previews/Customer.png.png)
 
 ### Transaction Analysis
-![Transaction](Dashboard%20Previews/Transaction.png)
+![Transaction](Dashboard%20Previews/Transaction.png.png)
 
 ### Loan Analysis
-![Loans](Dashboard%20Previews/Loans.png)
+![Loans](Dashboard%20Previews/Loans.png.png)
 
 ### Branch Analysis
-![Branches](Dashboard%20Previews/Branches.png)
+![Branches](Dashboard%20Previews/Branches.png.png)
 
 ## Tools & Technologies
 
